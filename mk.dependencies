@@ -1,7 +1,7 @@
 [
   {
-    "repository": "android_vendor_xiaomi_hydrogen",
-    "target_path": "vendor/xiaomi/hydrogen"
+    "repository": "android_vendor_xiaomi_helium",
+    "target_path": "vendor/xiaomi/helium"
   },
   {
     "repository": "android_device_xiaomi_msm8956-common",
