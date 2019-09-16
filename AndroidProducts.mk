@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/mk_helium.mk
+    $(LOCAL_DIR)/mokee_helium.mk
